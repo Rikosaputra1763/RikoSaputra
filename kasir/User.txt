@@ -1,0 +1,9 @@
+Admin
+username : admin@gmail.com
+password : admin
+
+Kasir
+username : kasir@gmail.com
+password : kasir
+
+Atau bisa lihat di database tb_user
